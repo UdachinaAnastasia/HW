@@ -15,5 +15,6 @@ int main(){
   }
  }
  printf("i_max = %d \n", i_max);
+ 
  return 0;
 }
